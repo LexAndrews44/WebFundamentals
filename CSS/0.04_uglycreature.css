@@ -1,0 +1,68 @@
+.wrapper{
+margin: 5px;
+
+}
+
+#head{
+	width: 200px;
+	height: 200px;
+	background: orange;
+	-moz-border-radius: 100px / 50px;
+	-webkit-border-radius: 100px / 50px;
+	border-radius: 100px / 50px;
+}		
+	
+
+
+
+#eye{
+  width: 60px;
+  height: 60px;
+  background-color: white;
+  border-radius: 120px;
+  margin: -150px 60px 200px 70px;
+	
+}
+
+#eyeball{
+  width: 45px;
+  height: 45px;
+  background-color: black;
+  border-radius: 50px;
+  margin: -250px 600px 200px 80px
+}
+
+#mouth{
+	width:90px;
+	height:45px;
+	border-radius:50px;
+	margin:-40px 100px 300px 60px;
+	background-color:red;
+  z-index:1;
+}
+
+#tooth{
+  width: 0;
+	height: 0;
+	border-left: 10px solid transparent;
+	border-right: 10px solid transparent;
+	border-top: 30px solid black;
+  margin: -170px 0px 10px 100px;
+  z-index:1;
+ position: relative;
+
+}
+
+
+  
+  #tooth2{
+  width: 0;
+	height: 0;
+	border-left: 10px solid transparent;
+	border-right: 10px solid transparent;
+	border-top: 30px solid black;
+  margin: -170px 0px 10px 100px;
+  z-index:1;
+ position: relative;
+}
+  
